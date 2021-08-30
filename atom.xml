@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://A-Eleanore.github.io</id>
+    <title>Eleanore&apos;s Blog</title>
+    <updated>2021-08-30T05:32:38.021Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://A-Eleanore.github.io"/>
+    <link rel="self" href="https://A-Eleanore.github.io/atom.xml"/>
+    <subtitle>Can you hear me?</subtitle>
+    <logo>https://A-Eleanore.github.io/images/avatar.png</logo>
+    <icon>https://A-Eleanore.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Eleanore&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://A-Eleanore.github.io/post/About Me/</id>
+        <link href="https://A-Eleanore.github.io/post/About Me/">
+        </link>
+        <updated>2021-08-30T03:00:56.000Z</updated>
+        <content type="html"><![CDATA[<p>Greetings!<br>
+Welcome.<br>
+I am Eleanore.<br>
+Not a programmer, so the website is simple.<br>
+I publish my penmanship works, drawings and some other things on this blog.<br>
+Enjoy.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About Tags]]></title>
+        <id>https://A-Eleanore.github.io/post/about-tags/</id>
+        <link href="https://A-Eleanore.github.io/post/about-tags/">
+        </link>
+        <updated>2021-08-29T15:11:33.000Z</updated>
+        <content type="html"><![CDATA[<p>&quot;Main Log&quot; stores blog-creating process.<br>
+&quot;Calligraphy&amp;Penmanship&quot; stores my practice and works of calligraphy.<br>
+&quot;Drawing&quot;stores my paintings.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ Welcome!]]></title>
+        <id>https://A-Eleanore.github.io/post/Greetings/</id>
+        <link href="https://A-Eleanore.github.io/post/Greetings/">
+        </link>
+        <updated>2021-08-29T14:06:40.000Z</updated>
+    </entry>
+</feed>
